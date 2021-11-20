@@ -1,0 +1,182 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    background-color: #1F2937;
+  }
+  .logo{
+    font-family: arial;
+    color: #F9FAF8;
+    font-size: 24px;
+  }
+  .navbar{
+    display: flex;
+    justify-content: space-between;
+  }
+  .link{
+    text-decoration: none;
+    font-family: arial;
+    font-size: 18px;
+    color: #778899;
+    width: 160px;
+    text-align: center;
+  }
+  .section_one{
+    background-color: #1F2937;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: space-between;
+    padding-bottom: 100px;
+  }
+  .left{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+  }
+  .title{
+    font-family: arial;
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+    padding-bottom: 5px;
+  }
+  .subtitle{
+    font-family: arial;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding-bottom: 10px;
+  }
+  button {
+    background-color: #3882F6;
+    padding: 5px;
+    border: none;
+    border-radius: 8px;
+    width: 150px;
+    color: #F6FAF8;
+    font-size: 18px;
+  }
+  .right {
+    width: 45%;
+    background-color: #778899;
+    font-family: arial;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .section_two {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .s2_title {
+    color: #1F2937;
+    font-family: arial;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  
+  .container {
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    justify-content: center;
+    padding-bottom: 100px;
+  }
+  .mini_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+  }
+  .image_box {
+    border: 3px solid #3882F6;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .image_text {
+    font-family: arial;
+    font-size: 16px;
+    color: #778899;
+    width: 150px;
+    text-align: center;
+  }
+  
+  .section_three {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding-left: 175px;
+    padding-right: 175px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+  }
+  .quote {
+    font-family: arial;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+  }
+  .author {
+    font-family: arial;
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 60%;
+  }
+  
+  .section_four {
+    background-color: #3882F6;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    color: #F9FAF8;
+    font-family: arial;
+    display: flex;
+    border-radius: 10px;
+  }
+  .s4text {
+    width: 75%;
+  }
+  .call_to_action_title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .call_to_action_subtitle {
+    font-size: 15px;
+    font-weight: lighter;
+    color: #E5E7EB;
+  }
+  .button2 {
+    border: 2px solid white;
+    color: white;
+    width: 150px;
+  }
+  
+  .section_five {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-family: arial;
+    font-size: 18px;
+    font-weight: lighter;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    margin-top: 100px;
+  }
